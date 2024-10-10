@@ -1,0 +1,16 @@
+Sales_ID,Sales,Product,Region,Quantity
+1,200.0,A,North,10
+2,150.0,B,South,20
+3,,C,East,30
+4,300.0,A,West,40
+5,2500.0,B,,10
+6,170.0,C,East,50
+7,200.0,A,South,60
+8,180.0,B,West,30
+9,200.0,C,North,20
+10,150.0,A,East,10
+11,,B,South,40
+12,1000.0,C,,50
+13,250.0,A,West,60
+14,210.0,B,North,30
+15,190.0,C,East,10
